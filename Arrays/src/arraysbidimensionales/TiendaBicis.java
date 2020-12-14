@@ -31,7 +31,7 @@ public class TiendaBicis {
 			}
 		}
 		
-		/* #1 RELLENAR EL ARRAY CON BICIS
+		/* #1 RELLENAR EL ARRAY CON BICIS jeje
 		 	for (int i=0; i<arrayBicis.length; i++) {
 				for (int x=0; x<arrayBicis[i].length; x++) {
 				System.out.println("Datos para la bici de la fila nº "+(i+1)+", columna nº "+(x+1)+":");
